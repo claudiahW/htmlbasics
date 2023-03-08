@@ -20,3 +20,14 @@ p{
 #para2 {
     color: khaki;
 }
+
+div {
+    background-color: limegreen;
+}
+
+img {
+    width: 200px;
+    height: 100px;
+    background-repeat: repeat-x;
+    background-size: cover;
+}
