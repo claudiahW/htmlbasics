@@ -3,10 +3,20 @@ h3{
     background-color: yellow;
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 p{
     color: hotpink;
+    background-color: black;
 }
 
 .para1{
     color: indigo;
+}
+
+#para2 {
+    color: khaki;
 }
